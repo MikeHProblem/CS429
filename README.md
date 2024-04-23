@@ -213,6 +213,7 @@ if __name__ == '__main__':
 
 
 Bibliography
+
 Büttcher, Stefan, Charles L. A. Clarke, and Gordon V. Cormack. "Information Retrieval: Implementing and Evaluating Search Engines." MIT Press, 2010.
 "Scrapy Documentation." Scrapy.org.
 "Scikit-Learn Documentation." Scikit-learn.org.
