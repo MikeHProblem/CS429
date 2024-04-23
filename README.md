@@ -217,3 +217,6 @@ Büttcher, Stefan, Charles L. A. Clarke, and Gordon V. Cormack. "Information Ret
 "Scrapy Documentation." Scrapy.org.
 "Scikit-Learn Documentation." Scikit-learn.org.
 "Flask Documentation." PalletsProjects.com.
+Resources
+- ChatGBT
+- Stackoverflow
